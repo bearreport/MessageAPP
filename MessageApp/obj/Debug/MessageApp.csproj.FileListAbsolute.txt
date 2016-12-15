@@ -1,0 +1,8 @@
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\bin\Debug\MessageApp.exe.config
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\bin\Debug\Messages.mdf
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\bin\Debug\Messages_log.ldf
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\bin\Debug\MessageApp.exe
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\bin\Debug\MessageApp.pdb
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\obj\Debug\MessageApp.csprojResolveAssemblyReference.cache
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\obj\Debug\MessageApp.exe
+C:\Users\bayerj\Documents\Visual Studio 2015\Projects\10-17\MessageApp\MessageApp\obj\Debug\MessageApp.pdb
